@@ -101,17 +101,38 @@ I created this repository to track my progress, strengthen my programming fundam
 ## Repository Structure
 
 ```text
-python-learning-journey/
+## 📂 Project Structure
+
+```text
+Python-Learning-Journey/
 │
-├── python-basics/
-├── problem-solving/
-├── file-handling/
-├── oop/
-├── projects/
-│   └── student-management-system/
-├── numpy/
-├── pandas/
-└── README.md
+├── conditional/              # Conditional statement practice
+├── decorators/               # Decorator examples
+├── Function/                 # Function-related programs
+├── loop/                     # Loop practice programs
+├── OOPS/                     # Object-Oriented Programming concepts
+│
+├── Python_With_Numpy/        # NumPy learning and challenges
+│
+├── Python_With_Pandas/       # Pandas learning and challenges
+│   ├── pandas_challenge.py
+│   ├── pandas_challenge2.py
+│   ├── pandas_challenge3.py
+│   ├── pandas_challenge4.py
+│   ├── pandas_challenge5.py
+│   ├── pandas_challenge6.py
+│   ├── pandas_challenge7.py
+│   ├── pandas_challenge8.py
+│   └── students.csv
+│
+├── file_handling.py          # File handling practice
+├── student.py                # Student Management System
+├── Student.txt               # Data storage file for SMS
+│
+├── README.md                 # Repository documentation
+├── LICENSE                   # Apache License 2.0
+└── .gitignore                # Git ignored files
+
 ```
 
 ## Current Progress
