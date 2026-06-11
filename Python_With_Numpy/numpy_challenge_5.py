@@ -1,0 +1,16 @@
+import numpy as np
+# arr = np.array([12, 15, 18, 20, 22, 25, 30])
+# print("Sum: ",np.sum(arr))
+# print("Mean: ",np.mean(arr))
+# print("Median: ",np.median(arr))
+# print("Maximum: ",np.max(arr))
+# print("Minimum: ",np.min(arr))
+# print("Standard Deviation: ",np.std(arr))
+
+marks = np.array([45, 67, 89, 32, 76, 91, 55, 40, 83, 72])
+print("Average Marks: ",np.average(marks))
+print("Highest Marks: ",np.max(marks))
+print("Lowest Marks: ",np.min(marks))
+print("Students who scored above 75: ",marks[marks > 75])
+print("Students who failed (marks below 40): ",marks[marks < 40])
+print("Number of students who passed (≥ 40): ",len(marks[marks >= 40]))
