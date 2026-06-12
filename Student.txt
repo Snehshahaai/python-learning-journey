@@ -1,6 +1,0 @@
-101,John,20
-102,Alice,19
-103,Sneh,19
-104,Karan,18
-105,Jinil,19
-106,Hasti,19
